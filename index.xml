@@ -1,0 +1,8 @@
+<linearLayout>
+
+    <TextView
+
+    android:text="add profile"
+    android:textsize="10dp"
+    android:textstyle="bold"/>
+</linearLayout>
